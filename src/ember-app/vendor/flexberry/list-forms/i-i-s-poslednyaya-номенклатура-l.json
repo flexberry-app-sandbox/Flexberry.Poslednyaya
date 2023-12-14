@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-poslednyaya-номенклатура-e",
+  "editForm": "i-i-s-poslednyaya-номенклатура-e",
+  "external": false,
+  "caption": "Номенклатура",
+  "name": "IISPoslednyayaНоменклатураL",
+  "className": "НоменклатураL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-poslednyaya-номенклатура",
+      "modelProjection": "НоменклатураL"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+﻿{
+  "name": "IISPoslednyayaЕдиницыИзмер",
+  "modelName": "i-i-s-poslednyaya-единицы-измер",
+  "className": "ЕдиницыИзмер",
+  "nameSpace": "IIS.Poslednyaya",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "единицаИзмер",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "ЕдиницыИзмерE",
+      "modelName": "i-i-s-poslednyaya-единицы-измер",
+      "attrs": [
+        {
+          "name": "единицаИзмер",
+          "caption": "Единица измер",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "ЕдиницыИзмерL",
+      "modelName": "i-i-s-poslednyaya-единицы-измер",
+      "attrs": [
+        {
+          "name": "единицаИзмер",
+          "caption": "Единица измер",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

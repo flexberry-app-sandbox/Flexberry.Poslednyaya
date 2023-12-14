@@ -1,0 +1,1 @@
+docker-compose -p poslednyaya-java up -d

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-poslednyaya-план-закупок-e",
+  "editForm": "i-i-s-poslednyaya-план-закупок-e",
+  "external": false,
+  "caption": "План закупок",
+  "name": "IISPoslednyayaПланЗакупокL",
+  "className": "ПланЗакупокL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-poslednyaya-план-закупок",
+      "modelProjection": "ПланЗакупокL"
+    }
+  ]
+}

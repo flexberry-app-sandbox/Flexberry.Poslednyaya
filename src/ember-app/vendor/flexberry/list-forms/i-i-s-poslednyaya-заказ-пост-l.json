@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-poslednyaya-заказ-пост-e",
+  "editForm": "i-i-s-poslednyaya-заказ-пост-e",
+  "external": false,
+  "caption": "Заказ пост",
+  "name": "IISPoslednyayaЗаказПостL",
+  "className": "ЗаказПостL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-poslednyaya-заказ-пост",
+      "modelProjection": "ЗаказПостL"
+    }
+  ]
+}

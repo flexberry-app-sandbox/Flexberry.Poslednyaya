@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-poslednyaya-отчет-о-зак-e",
+  "editForm": "i-i-s-poslednyaya-отчет-о-зак-e",
+  "external": false,
+  "caption": "Отчет о зак",
+  "name": "IISPoslednyayaОтчетОЗакL",
+  "className": "ОтчетОЗакL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-poslednyaya-отчет-о-зак",
+      "modelProjection": "ОтчетОЗакL"
+    }
+  ]
+}
